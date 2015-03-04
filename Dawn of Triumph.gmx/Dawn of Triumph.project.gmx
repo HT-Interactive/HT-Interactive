@@ -4,10 +4,25 @@
     <Config>Configs\Default</Config>
   </Configs>
   <NewExtensions/>
-  <sounds name="sound"/>
-  <sprites name="sprites"/>
-  <backgrounds name="background"/>
-  <paths name="paths"/>
+  <sounds name="sound">
+    <sound>sound\snd_sword_swoosh</sound>
+  </sounds>
+  <sprites name="sprites">
+    <sprite>sprites\spr_sword</sprite>
+  </sprites>
+  <backgrounds name="background">
+    <background>background\bg_dawn</background>
+    <background>background\bg_clouds</background>
+  </backgrounds>
+  <paths name="paths">
+    <path>paths\path0</path>
+  </paths>
+  <objects name="objects">
+    <object>objects\obj_sword</object>
+  </objects>
+  <rooms name="rooms">
+    <room>rooms\rm_intro</room>
+  </rooms>
   <help>
     <rtf>help.rtf</rtf>
   </help>
