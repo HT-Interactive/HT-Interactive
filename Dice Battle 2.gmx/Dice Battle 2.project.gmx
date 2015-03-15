@@ -34,7 +34,6 @@
     <script>scripts\roll_die.gml</script>
     <script>scripts\shake.gml</script>
     <script>scripts\reset_symbols.gml</script>
-    <script>scripts\Dummy_script.gml</script>
   </scripts>
   <objects name="objects">
     <object>objects\obj_controller</object>
