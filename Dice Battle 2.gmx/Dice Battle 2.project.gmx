@@ -26,6 +26,7 @@
   </sprites>
   <backgrounds name="background">
     <background>background\bg_hud</background>
+    <background>background\bg_grass</background>
   </backgrounds>
   <paths name="paths"/>
   <scripts name="scripts">
