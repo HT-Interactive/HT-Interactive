@@ -23,6 +23,7 @@
     <sprite>sprites\spr_mage</sprite>
     <sprite>sprites\spr_rouge</sprite>
     <sprite>sprites\spr_symbols</sprite>
+    <sprite>sprites\spr_mute</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bg_hud</background>
@@ -38,12 +39,11 @@
   <objects name="objects">
     <object>objects\obj_controller</object>
     <object>objects\obj_roll_button</object>
-    <object>objects\obj_monster</object>
     <object>objects\obj_hud</object>
-    <object>objects\obj_attack_die</object>
     <objects name="Dice">
       <object>objects\obj_die</object>
       <object>objects\obj_d6</object>
+      <object>objects\obj_attack_die</object>
     </objects>
     <objects name="Characters">
       <object>objects\obj_character_fighter</object>
@@ -51,8 +51,12 @@
       <object>objects\obj_character_rouge</object>
       <object>objects\obj_character</object>
     </objects>
-    <object>objects\obj_symbol</object>
-    <object>objects\obj_symbol_combat</object>
+    <objects name="Monsters">
+      <object>objects\obj_monster</object>
+      <object>objects\obj_symbol</object>
+      <object>objects\obj_symbol_combat</object>
+    </objects>
+    <object>objects\obj_mute</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room_battle</room>

@@ -103,7 +103,7 @@
     monster_die[i].image_index = floor(random(3));
     monster_die[i].image_speed = 0;
 }
-
+audio_play_sound(snd_music,1,true);
 
 </string>
           </argument>

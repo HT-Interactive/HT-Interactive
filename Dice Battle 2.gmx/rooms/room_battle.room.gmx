@@ -69,6 +69,7 @@
     <instance objName="obj_character_fighter" x="100" y="110" name="inst_0525C40E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_character_mage" x="100" y="300" name="inst_9B14E027" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_character_rouge" x="100" y="490" name="inst_141A7BB2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_mute" x="980" y="10" name="inst_DB7DE87D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
