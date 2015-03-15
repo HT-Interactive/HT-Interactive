@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TPE>
+  <w>185</w>
+  <h>255</h>
+  <name>Default</name>
+  <hasAlpha>True</hasAlpha>
+  <hash>444128404</hash>
+  <xoffset>1</xoffset>
+  <yoffset>20</yoffset>
+  <cropWidth>185</cropWidth>
+  <cropHeight>255</cropHeight>
+  <ow>200</ow>
+  <oh>275</oh>
+  <image>spr_monster1_2.tpe.png</image>
+</TPE>

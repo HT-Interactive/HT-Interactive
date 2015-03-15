@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TPE>
+  <w>30</w>
+  <h>32</h>
+  <name>Default</name>
+  <hasAlpha>True</hasAlpha>
+  <hash>1625476696</hash>
+  <xoffset>1</xoffset>
+  <yoffset>15</yoffset>
+  <cropWidth>30</cropWidth>
+  <cropHeight>32</cropHeight>
+  <ow>32</ow>
+  <oh>48</oh>
+  <image>spr_treasure_blue_ani_3.tpe.png</image>
+</TPE>

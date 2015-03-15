@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TPE>
+  <w>32</w>
+  <h>32</h>
+  <name>Default</name>
+  <hasAlpha>True</hasAlpha>
+  <hash>2415014791</hash>
+  <xoffset>2</xoffset>
+  <yoffset>2</yoffset>
+  <cropWidth>32</cropWidth>
+  <cropHeight>32</cropHeight>
+  <ow>36</ow>
+  <oh>36</oh>
+  <image>spr_die_base_combat_3.tpe.png</image>
+</TPE>
